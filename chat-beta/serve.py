@@ -12,7 +12,7 @@ def index():
         </head>
         <body>
             <h1>Welcome to Forum Test</h1>
-            <iframe src="http://192.168.1.4:8501" width="100%" height="800px"></iframe>
+            <iframe src="IP" width="100%" height="800px"></iframe>
         </body>
     </html>
     """)
